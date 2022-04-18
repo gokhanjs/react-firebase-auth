@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Table of contents
 - [General Info](#general-info)
 - [Technologies](#technologies)
