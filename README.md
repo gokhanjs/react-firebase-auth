@@ -6,8 +6,6 @@
 # General Info
 React & Firebase User Login System
 
-[Live Demo](http://gokhan-getir-react-tailwind.netlify.app/)
-
 # Technologies
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 18.0
 
