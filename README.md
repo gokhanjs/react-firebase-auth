@@ -19,8 +19,9 @@ React & Firebase User Login System
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 # Setup
+- Edit ```src/firebase-config.js``` file
+
 - Run npm commands.
 ```
 npm i && npm start
 ```
-- Edit ```src/firebase-config.js``` file
